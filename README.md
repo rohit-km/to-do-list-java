@@ -37,6 +37,14 @@ to-do-list-java/
 ├── README.md
 ```
 
+## Preview
+
+### CLI (Command-Line Interface)
+![To-Do List Application CLI Preview](https://github.com/user-attachments/assets/5fcaf95a-39ab-42c9-8272-68816c91a475)
+
+### GUI Interface (Graphical User Interface)
+![To-Do List Application GUI Preview](https://github.com/user-attachments/assets/e300f840-835d-48d6-8f03-cfc73e64e055)
+
 ## How to Use
 1. Clone the repository:
    ```bash
